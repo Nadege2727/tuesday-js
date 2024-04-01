@@ -296,3 +296,6 @@ The goal of Tuesday JS is to make project development no more difficult than wor
 [Portuguese translation and adaptation by Sarah Camargo](https://www.linkedin.com/in/sarah-carolina-camargo/)
 
 [![Patreon](http://odin-interactive.com/img/patron.svg)](https://www.patreon.com/kirill_live)
+
+
+just for testing 
